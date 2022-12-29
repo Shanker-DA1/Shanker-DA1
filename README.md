@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shanker-DA1
+- 👋 Hi, I’m @Shanker
 - 👀 I’m interested in working on project relating to data science and data analysis
 - 🌱 I’m currently learning data analysis and data science
 - 💞️ I’m looking to collaborate on projects relating to data science and data analysis to enhance my skills and knowledge!
